@@ -1,0 +1,7 @@
+.MovieContainer{
+    display: flex; /* Utiliza flexbox para alinear las tarjetas */
+    flex-wrap: wrap; /* Permitir que las tarjetas se envuelvan a la siguiente línea */
+    gap: 20px; 
+    
+    
+}
